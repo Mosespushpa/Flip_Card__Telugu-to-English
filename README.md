@@ -1,4 +1,4 @@
-# -Flip_Card[Telugu to English]-
+# Flip_Card__Telugu to English
 A flip card project to learn new language, using Tkinter . from my udemy course
 i used Tkinter for creating the user interface,
 and Random module for generating random cards ,
